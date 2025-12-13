@@ -4,6 +4,6 @@ Data Science MSc graduate with a focus on machine learning, statistics, data ana
 
 🔍 Currently on the active lookout for the **full-time junior role** as:
   - **Data Analyst**
-  - **Data Scientist**
+  - **ML Engineer**
   - **ML-oriented Software Engineer**
-  - **Risk / Quantitative Analyst**
+  - **Data Scientist**
