@@ -2,7 +2,7 @@ Hey, I’m Anton 👋
 
 Data Science MSc graduate with a focus on machine learning, statistics, and data engineering. Experienced in building end-to-end, scalable data and ML pipelines using Python, AWS services, and Docker for both research and real-world applications. Hands-on with state-of-the-art machine learning models and comfortable communicating technical results to both technical and non-technical audiences.
 
-🔍 Currently on the active lookout for the full-time junior role as:
+🔍 Currently on the active lookout for the **full-time junior role** as:
   - **Data Analyst**
   - **Data Scientist**
   - **ML-oriented Software Engineer**
