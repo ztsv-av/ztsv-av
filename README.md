@@ -6,4 +6,5 @@ Data Science MSc graduate with a focus on machine learning, statistics, data ana
   - **Data Analyst**
   - **ML Engineer**
   - **ML-oriented Software Engineer**
+  - **AI Engineer**
   - **Data Scientist**
